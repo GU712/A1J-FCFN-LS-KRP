@@ -1,0 +1,198 @@
+<item>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Bela e a Fera[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NX_xBVOCQgo</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xGgjmL2mRZslrfkVuUi6vwseJY7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lq9Luf1EEFzFI6kA5kzrU7KwS7r.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>FICÇÃO E FANTASIA</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+TORRENTS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Bela e a Fera (DATA) - SD DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lq9Luf1EEFzFI6kA5kzrU7KwS7r.jpg</fanart>
+<info>Catherine, uma detetive atormentada pelo assassinato de sua mãe, quando tinha só nove anos, e pela visão da morte do assassino pelas mãos da fera.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Bela e a Fera (DATA) - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>			
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lq9Luf1EEFzFI6kA5kzrU7KwS7r.jpg</fanart>
+<info>Catherine, uma detetive atormentada pelo assassinato de sua mãe, quando tinha só nove anos, e pela visão da morte do assassino pelas mãos da fera.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SERVER LS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (2012) - T01 - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 22 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E01.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Piloto[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E02.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Morre uma Estrela[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E03.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white] Vale Tudo[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E04.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white] Instinto Basico[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E05.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white] O Retorno de Saturno[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E06.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] Valor[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E07.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] Fora de Controle[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E08.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white] Aprisionado[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E09.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] Dama de Honra - Ativar[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E10.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] Enxergando Vermelho[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E11.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white] Negocio Arriscado[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E12.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white] Dando um Gelo[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E13.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white] Nao Confie em Ninguem[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E14.mp4$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white] Amor Bruto[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E15.mp4$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white] De Todos os Modos Possiveis[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E16.mp4$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white] Insaciavel[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E17.mp4$$lsname=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white] Parceiros de Crime[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E18.mp4$$lsname=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white] Corasao das Trevas[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E19.mp4$$lsname=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white] Brincando com Fogo[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E20.mp4$$lsname=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white] O Aniversario[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E21.mp4$$lsname=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white] A Noite do Encontro[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T01/LS-T01E22.mp4$$lsname=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white] Sem Olhar Para Tras[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/pabFf928OWXs2vKoTQ5V7Mffbdl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lq9Luf1EEFzFI6kA5kzrU7KwS7r.jpg</fanart>
+<info>Catherine, uma detetive atormentada pelo assassinato de sua mãe, quando tinha só nove anos, e pela visão da morte do assassino pelas mãos da fera.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (2013) - T02 - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 22 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E01.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] Quem Sou Eu?[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E02.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] Sequestro[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E03.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white] Mentiras[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E04.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] De Cabesa Quente[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E05.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white] Reencontro[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E06.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white] Papai So Quer o Melhor[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E07.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white] Adivinha Quem Vem Jantar?[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E08.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white] Homem ou Fera?[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E09.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white] Por Favor, Nao Morra[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E10.mp4$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white] Ancestrais[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E11.mp4$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white] Refens[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E12.mp4$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white] Receita Para Desastres[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E13.mp4$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white] Ate a Morte[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E14.mp4$$lsname=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white] Redensao[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E15.mp4$$lsname=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white] Prenda-me Se For Capaz[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E16.mp4$$lsname=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white] A Noite de Ontem[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E17.mp4$$lsname=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white] Fera e o Novo Preto[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E18.mp4$$lsname=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white] Gata e Rato[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E19.mp4$$lsname=[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white] Caso Arquivado[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E20.mp4$$lsname=[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white] Para Sempre[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E21.mp4$$lsname=[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white] Encontro de Mentirinha[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T02/LS-T02E22.mp4$$lsname=[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white] Deja Vu[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/jfdcpf0HNo857ggf7bKDk1n4uiY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lq9Luf1EEFzFI6kA5kzrU7KwS7r.jpg</fanart>
+<info>Catherine, uma detetive atormentada pelo assassinato de sua mãe, quando tinha só nove anos, e pela visão da morte do assassino pelas mãos da fera.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (2015) - T03 - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 03 - 13 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E01.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white] A Fera de Wall Street[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E02.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white] Medo Primitivo[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E03.mp4$$lsname=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white] Bob, Carol, Vincent e Cat[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E04.mp4$$lsname=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white] O Que Importa e o Corasao[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E05.mp4$$lsname=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white] A Fera Mais Perigosa[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E06.mp4$$lsname=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white] Casando Fantasmas[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E07.mp4$$lsname=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white] Ambos os Lados[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E08.mp4$$lsname=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white] Casar ou Morrer[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E09.mp4$$lsname=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white] Segredo Revelado[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E10.mp4$$lsname=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white] Paciente X[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E11.mp4$$lsname=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white] Indestrutivel[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E12.mp4$$lsname=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white] Pecados do Pai[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T03/LS-T03E13.mp4$$lsname=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white] Predestinados[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/7vxn4A8tKkcvQkt7Mce69jgrFla.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lq9Luf1EEFzFI6kA5kzrU7KwS7r.jpg</fanart>
+<info>Catherine, uma detetive atormentada pelo assassinato de sua mãe, quando tinha só nove anos, e pela visão da morte do assassino pelas mãos da fera.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (2016) - T04 - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 04 - 13 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E01.mp4$$lsname=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white] Monsieur et Madame Bete[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E02.mp4$$lsname=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white] Fera Interrompida[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E03.mp4$$lsname=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white] Fora de Combate[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E04.mp4$$lsname=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white] Algo Tem Que Mudar[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E05.mp4$$lsname=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white] Uma Fera Maravilhosa[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E06.mp4$$lsname=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white] A Fera dos Tempos, no Pior dos Tempos[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E07.mp4$$lsname=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white] Caminho Sem Volta[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E08.mp4$$lsname=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white] O Amor e um Campo de Batalha[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E09.mp4$$lsname=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white] A Porta De Entrada[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E10.mp4$$lsname=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white] Os Fins Justificam os Meios[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E11.mp4$$lsname=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white] Conhesa A Nova Fera[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E12.mp4$$lsname=[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white] Sem Saida[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/A.Bela.E.A.Fera/T04/LS-T04E13.mp4$$lsname=[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white] Au Revoir[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/2v8fzOoX44Qlfcgb8CVsh3sO1h2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lq9Luf1EEFzFI6kA5kzrU7KwS7r.jpg</fanart>
+<info>Catherine, uma detetive atormentada pelo assassinato de sua mãe, quando tinha só nove anos, e pela visão da morte do assassino pelas mãos da fera.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
+<title>[COLOR black].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU  ?
+ CONTATE O SUPORTE NO WHATS, QUE RESOLVEMOS. [/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
